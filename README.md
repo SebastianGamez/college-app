@@ -1,6 +1,6 @@
 # College app :rocket:
 
-## College app es un API-RESTFUL creado con python y su framework por exelencia para desarrollo web, Django; este proyecto también usa una de las bases de datos relacionales más populares en la actualidad, PostgreSQL. College app es una aplicación creada a manera de ser escalable mediante la implementación de servicios a la espera de ser restringidos con JWT y ser validados con middlewares; además, usa JSON y previemente ha sido configurada para la implementación de CORS.
+## College app es un API-RESTFUL creado con python y su framework por exelencia para desarrollo web, Django; este proyecto también usa una de las bases de datos relacionales más populares en la actualidad, PostgreSQL (La cual ya está en línea y disponible para su uso, sea precavido). College app es una aplicación creada a manera de ser escalable mediante la implementación de servicios a la espera de ser restringidos con JWT y ser validados con middlewares; además, usa JSON y previemente ha sido configurada para la implementación de CORS.
 
 ## Servicios y peticiones ✏️
 ### Para las peticiones de tipo CRUD, se usa el formato JSON. También puede importar el archivo 'college_project.postman_collection.json' dentro de postman para probar las peticiones, ahí va a encontar de manera segmentada la información y con respectivos ejemplos. 
@@ -32,7 +32,7 @@
   
   #### -GET 'api/teacher/<int:teacher_id>/', retorna la información de un determinado profesor.
   
-
+## Por último, espero est proyecto halla sido de su agrado y no presentase dificultades.
 
 ## Contact Me
 
