@@ -32,7 +32,7 @@
   
   #### -GET 'api/teacher/<int:teacher_id>/', retorna la información de un determinado profesor.
   
-## Por último, espero est proyecto halla sido de su agrado y no presentase dificultades.
+## Por último, espero este proyecto halla sido de su agrado y no presentase dificultades.
 
 ## Contact Me
 
